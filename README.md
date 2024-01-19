@@ -16,8 +16,7 @@ The significance of captioning stems from its capacity to enhance accessibility 
   * <a href="#Metric">Metric</a>
 * <a href="#Features">Features</a>
 * <a href="#Scripts">Scripts</a>
-* <a href="#FutureDevelopment">Future Development</a>
-* <a href="#References">References</a>
+
 
 <h2 id="Inspiration">Inspiration</h2>
 
@@ -152,21 +151,3 @@ For a more detailed understanding of these search algorithms, you can refer to t
     has 4096 dimensions. So for a video we create a numoy array of shape(80, 4096)
     config.py contains all the configurations i am using
  * **Video_Captioning.ipynb** is the notebook i used for training and building this project.
-
-<h2 id="FutureDevelopment">Future Development</h2>
-<ul>
- <li>Integrating attention blocks and pretrained embeddings (e.g., GloVe) to enhance the model's comprehension of sentences.</li> 
- <li>Exploring the use of other pretrained models, such as I3D, specifically designed for video understanding, to improve feature extraction.</li> 
- <li>Expanding the model's capability to handle longer videos, as it currently supports only 80 frames.</li>
- <li>Incorporating a user interface (UI) into the project for a more user-friendly experience.</li>
- <li>Using Chat-GPT API provided by Open-AI to get more creative and compelling captions.
-</ul>
-
- <h2 id="References">References</h2>
- 
- [SV2T paper 2015](https://arxiv.org/abs/1505.00487)
- 
- [Keras implementation](https://github.com/CryoliteZ/Video2Text)
- 
-[Intelligent-Projects-Using-Python](https://github.com/PacktPublishing/Intelligent-Projects-Using-Python/blob/master/Chapter05) 
-
