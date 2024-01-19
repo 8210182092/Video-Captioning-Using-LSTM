@@ -28,7 +28,7 @@ This project utilizes the <a href="https://opendatalab.com/MSVD">MSVD</a> datase
 
 <h2 id="Setup">Setup</h2>
 
-Clone the repository : <code>git clone https://github.com/MathurUtkarsh/Video-Captioning-Using-LSTM-and-Keras.git</code>
+Clone the repository : <code>git clone https://github.com/8210182092/Video-Captioning-Using-LSTM.git</code>
 
 Video Caption Generator: <code>cd Video-Captioning</code>
 
